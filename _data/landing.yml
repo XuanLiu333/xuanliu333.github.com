@@ -35,3 +35,9 @@
   name: Links
   tpl: links.html
   css: contact
+
+- id: CV
+  i18n: nav.CV
+  name: CV
+  tpl: resume.html
+  css: 
