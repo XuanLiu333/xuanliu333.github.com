@@ -1,8 +1,0 @@
----
-layout: blog
-title: CV
-permalink: /CV/
----
-{% include resume.html %}
-
-{{ site.baseurl }}/static/assets/pdfs/Resume_XuanLiu_tech.pdf
