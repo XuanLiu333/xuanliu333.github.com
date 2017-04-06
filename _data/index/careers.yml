@@ -14,30 +14,48 @@
     i18n: company_a_job
   icon: fa-plus-square
 
+
 - name:
-    detail: Advertising Agency firm to design and analyze online marketing campaign
-    i18n: Initiative IPG Group
+    detail: Georgia State University
+    i18n: company_b
   desc:
-    detail: I worked at Initiative IPG Group
+    detail: I will finished my study at University and continue to explore the tech world.
     i18n: company_b_desc
   date:
-    detail: Jun. 2014
+    detail: Dec. 2014
     i18n: company_b_date
   job:
-    detail: Media Planner
+    detail: Graduate Student & Research Assitant at Marketing Department
     i18n: company_b_job
   icon: fa-plus-square
 
+
+
 - name:
-    detail: 
-    i18n: Graduation
+    detail: Initiative IPG Group 
+    i18n: company_c
   desc:
-    detail: I finished my study at University and start to explore the tech world.
-    i18n: company_b_desc
+    detail: I worked at Initiative IPG Group, which is an Advertising Agency firm to design and analyze online marketing campaign.
+    i18n: company_c_desc
   date:
-    detail: Jun. 2012
-    i18n: company_b_date
+    detail: Jan. 2014
+    i18n: company_c_date
+  job:
+    detail: Media Planner
+    i18n: company_c_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Henan University of Sci & Tech
+    i18n: company_d
+  desc:
+    detail: I studied in China to pursue my Bachelor's Degree with passion.
+    i18n: company_d_desc
+  date:
+    detail: May. 2012
+    i18n: company_d_date
   job:
     detail: Student
-    i18n: company_b_job
+    i18n: company_d_job
   icon: fa-plus-square
