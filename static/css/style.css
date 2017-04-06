@@ -7487,7 +7487,7 @@ body.landing-page {
 }
 
 .landing-page .header-back.one {
-    background: url({{site:img_header}}/img/landing/header_three.jpg) 50% 0 no-repeat
+    background: url({{ site:img_header }}/img/landing/header_three.jpg) 50% 0 no-repeat
 }
 
 .landing-page .header-back.two {
